@@ -1,0 +1,60 @@
+/* font start */
+@font-face {
+    font-family: Poppins-Regular;
+    src: url(../fonts/Poppins-Regular.ttf);
+}
+@font-face {
+    font-family: Poppins-Medium;
+    src: url(../fonts/Poppins-Medium.ttf);
+}
+@font-face {
+    font-family: Poppins-Bold;
+    src: url(../fonts/Poppins-Bold.ttf);
+}
+@font-face {
+    font-family: Roboto-Regular;
+    src: url(../fonts/Roboto-Regular.ttf);
+}
+/* font end */
+/* common start */
+body {
+    font-family: Poppins-Regular;
+    font-size: 16px;
+    font-weight: 400;
+    color: #000000;
+}
+/* common end */
+/* header start */
+header {
+    background-color: #F0FFF0;
+    padding: 5px 0;
+}
+
+/* some unused classes */
+/* .c_nav {}
+.logo {}
+.menu {} */
+
+.menu ul li a {
+    color: #000000 !important;
+    line-height: 24px;
+    text-transform: capitalize;
+    padding: 0 24px !important;
+}
+.menu ul li a:hover {
+    color: #FD511A !important;
+}
+.btn_signin {
+    font-family: Roboto-Regular;
+    color: white;
+    line-height: 19px;
+    padding: 12px 28px;
+    background-color: #21B573;
+    border: 0;
+    border-radius: 33px;
+}
+.btn_signin:hover {
+    background-color: #FD511A;
+    color: white;
+}
+/* header end */

@@ -1,0 +1,40 @@
+notes--------
+
+e-school (figma)
+
+fonts--
+font-family: Poppins-Regular Poppins-Medium Poppins-Bold
+font-family: Roboto-Regular
+
+
+colors--
+bg #F0FFF0
+black #000000
+green #21B573
+hover #FD511A
+white
+
+
+layout and sections--
+header banner features courses testimonials contacts footer
+
+
+
+header--
+1. logo.png export and crow with a proper size in photoshop
+2. copy bootstrap navbar codes from bootstrap docs
+3. code commenting and id changing
+4. removing unnecessary(for this project) codes
+5. adding signin button
+6. aligning items
+etc.........
+
+
+
+
+
+semantic---------
+code comment
+reuse
+code repitition avoid
+ui ux
